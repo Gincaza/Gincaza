@@ -14,7 +14,7 @@ Here are some of my projects that you can find on this profile:
 
 2. [ToDoApp](https://github.com/Gincaza/ToDo-App) - A To-Do App. ✅
 
-3. [CaeserCipher](https://github.com/Gincaza/CaesarCipher) - Encryption and Decryption CaeserCipher ransomware 0️⃣
+3. [CaeserCipher](https://github.com/Gincaza/CaesarCipher) - Encryption and Decryption CaeserCipher ransomware. 0️⃣
 
 ## Cybersecurity 🔒
 
