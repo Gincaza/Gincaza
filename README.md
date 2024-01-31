@@ -16,6 +16,8 @@ Here are some of my projects that you can find on this profile:
 
 3. [CaeserCipher](https://github.com/Gincaza/CaesarCipher) - Encryption and Decryption CaeserCipher ransomware. 0️⃣
 
+4. 3. [CaeserCipher](https://github.com/Gincaza/Calculator) - Basic Console calculator. 0️⃣ 
+
 ## Cybersecurity 🔒
 
 I love cybersecurity challenges and maintain an active profile on platforms like Hack The Box and TryHackMe. You can find me on these platforms with the following usernames:
