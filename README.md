@@ -16,7 +16,7 @@ Here are some of my projects that you can find on this profile:
 
 3. [CaeserCipher](https://github.com/Gincaza/CaesarCipher) - Encryption and Decryption CaeserCipher ransomware. 0️⃣
 
-4. 3. [CaeserCipher](https://github.com/Gincaza/Calculator) - Basic Console calculator. 0️⃣ 
+4. [Calculator](https://github.com/Gincaza/Calculator) - Basic Console calculator. ➗ 
 
 ## Cybersecurity 🔒
 
