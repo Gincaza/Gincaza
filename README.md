@@ -6,6 +6,8 @@ Hello! I'm a developer passionate about technology, constantly exploring new pro
 
 In this repository, you'll find an assortment of projects reflecting my journey as a developer and technology enthusiast. Feel free to explore them and provide feedback or suggestions.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gincaza)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Projects 🚀
 
 Here are some of my projects that you can find on this profile:
@@ -40,5 +42,3 @@ You can reach out to me through the following options:
 Thank you for visiting my profile and exploring my projects. Feel free to follow me and check for future updates. If you find any of the projects interesting or have any suggestions, I'd be delighted to receive your feedback.
 
 Happy coding! 😄
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gincaza)](https://github.com/anuraghazra/github-readme-stats)
