@@ -36,7 +36,7 @@ You can reach out to me through the following options:
 - Email: gustavorecess@gmail.com 📧
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-cruz-6798a4235/)
 
-- Twitter: [@gincaza](https://twitter.com/gincaza_) 🐦
+- [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/gincaza_)]
 
 ## Acknowledgments 🙏
 
