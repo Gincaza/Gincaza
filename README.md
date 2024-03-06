@@ -34,7 +34,7 @@ Feel free to get in touch if you'd like to discuss anything related to cybersecu
 You can reach out to me through the following options:
 
 - Email: gustavorecess@gmail.com 📧
-- LinkedIn: [Gustavo Cruz](https://www.linkedin.com/in/gustavo-cruz-6798a4235/) 💼
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [Gustavo Cruz](https://www.linkedin.com/in/gustavo-cruz-6798a4235/) 💼
 - Twitter: [@gincaza](https://twitter.com/gincaza_) 🐦
 
 ## Acknowledgments 🙏
