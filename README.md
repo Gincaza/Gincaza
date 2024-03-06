@@ -40,3 +40,5 @@ You can reach out to me through the following options:
 Thank you for visiting my profile and exploring my projects. Feel free to follow me and check for future updates. If you find any of the projects interesting or have any suggestions, I'd be delighted to receive your feedback.
 
 Happy coding! 😄
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gincaza)](https://github.com/anuraghazra/github-readme-stats)
