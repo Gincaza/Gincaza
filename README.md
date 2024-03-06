@@ -2,7 +2,7 @@
 
 ## About Me 🙋‍♂️
 
-Hello! I'm a developer passionate about technology, constantly exploring new programming languages and tech-related topics. Currently, I'm proficient in Python with the Django framework, but I'm also studying BashScript and C. I have a special interest in cybersecurity and enjoy participating in challenges on platforms like Hack The Box and TryHackMe.
+Hello! I'm a developer passionate about technology, constantly exploring new programming languages and tech-related topics. Currently, I'm proficient in C# with the .NET framework. I have a special interest in cybersecurity and enjoy participating in challenges on platforms like Hack The Box and TryHackMe.
 
 In this repository, you'll find an assortment of projects reflecting my journey as a developer and technology enthusiast. Feel free to explore them and provide feedback or suggestions.
 
