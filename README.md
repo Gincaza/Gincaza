@@ -1,5 +1,3 @@
-# mothnue
-
 ## About Me 🙋‍♂️
 
 Hello! I'm a developer passionate about technology, constantly exploring new programming languages and tech-related topics. Currently, I'm proficient in C# with the .NET framework. I have a special interest in cybersecurity and enjoy participating in challenges on platforms like Hack The Box and TryHackMe.
