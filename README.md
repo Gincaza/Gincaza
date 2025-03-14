@@ -31,7 +31,7 @@ Feel free to get in touch if you'd like to discuss anything related to cybersecu
 
 You can reach out to me through the following options:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-cruz-6798a4235/) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/gincaza_)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-cruz-6798a4235/) 
 - gustavorecess@gmail.com
 
 ## Acknowledgments 
