@@ -1,4 +1,4 @@
-## About Me 🙋‍♂️
+## About Me 
 
 Hello! I'm a developer passionate about technology, constantly exploring new programming languages and tech-related topics. Currently, I'm proficient in PHP with Laravel and Python. I have a special interest in cybersecurity and enjoy participating in challenges on platforms like Hack The Box and TryHackMe.
 
@@ -34,8 +34,8 @@ You can reach out to me through the following options:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-cruz-6798a4235/) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/gincaza_)
 - gustavorecess@gmail.com
 
-## Acknowledgments 🙏
+## Acknowledgments 
 
 Thank you for visiting my profile and exploring my projects. Feel free to follow me and check for future updates. If you find any of the projects interesting or have any suggestions, I'd be delighted to receive your feedback.
 
-Happy coding! 🚀
+Happy coding! 
