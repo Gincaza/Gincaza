@@ -13,6 +13,6 @@ You can reach out to me through the following options:
 
 ## Acknowledgments 
 
-Thank you for visiting my profile and exploring my projects. Feel free to follow me and check for future updates. If you find any of the projects interesting or have any suggestions, I'd be delighted to receive your feedback.
+Thank you for visiting my profile and exploring my projects.
 
 Happy coding! 
